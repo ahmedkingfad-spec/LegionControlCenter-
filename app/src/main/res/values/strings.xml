@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Legion Control Center</string>
+    <string name="tile_label">Legion Center</string>
+    <string name="accessibility_desc">Allows Raven AI and Legion Control Center to perform system actions like Screenshot, Split Screen, Quick Settings, Lock Screen, and Macro gestures on your Legion Y700.</string>
+</resources>
